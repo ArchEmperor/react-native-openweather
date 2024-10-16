@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ReactNative",
-    "slug": "ReactNative",
+    "name": "ReactNativeWeatherForecast",
+    "slug": "ReactNativeWeather",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -19,7 +19,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.archemperor.ReactNative"
     },
     "web": {
       "bundler": "metro",
@@ -31,6 +32,11 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7c210807-e841-43eb-ad97-3508caeaf106"
+      }
     }
   }
 }
