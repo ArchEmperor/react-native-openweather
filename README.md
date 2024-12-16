@@ -1,3 +1,7 @@
+# About project
+This is react native project for parsing weather data from openweather.
+Also there is Google Places API integration for country/city autocomplition.
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
