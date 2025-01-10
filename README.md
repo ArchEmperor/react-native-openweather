@@ -32,3 +32,7 @@ You can start developing by editing the files inside the **app** directory. This
 ## To start this app create config.js un root folder with api keys :
 export const OPEN_WEATHER_API_KEY='';
 export const GOOGLE_API_KEY=''
+![image](https://github.com/user-attachments/assets/75ea9cd9-0510-47a2-95e0-cebef4d04a88)
+![image](https://github.com/user-attachments/assets/d8994b00-36f9-43d0-bbc8-dac9b6301f63)
+![image](https://github.com/user-attachments/assets/17a039cd-f7b0-44fc-8b19-04d6ef8eade9)
+
